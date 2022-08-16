@@ -8,4 +8,6 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+My blogs are [CSDN](https://blog.csdn.net/qq_40899248?spm=1000.2115.3001.5343) written in Chinese. 
+
+<!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`.  -->

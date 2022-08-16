@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+You could download the complete curriculum vitae [here](https://zhuoyusan.github.io/files/ZhuoYu_CV_Universal_v1.2.pdf) 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. Technical University Darmstadt, Germany, 2023
+* B.S. Guangdong University of Technology, China, 2012
 
-Work experience
+
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
