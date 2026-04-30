@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhuo Yu / Master of Science"
 title_separator          : "-"
 name                     : &name "Zhuo Yu"
-description              : &description "personal description"
+description              : &description "Personal academic homepage of Zhuo Yu — NLP, Trustworthy AI, Multimodal Learning"
 url                      : https://zhuoyusan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhuoyusan/zhuoyusan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhuo Yu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "M.Sc. student & Research Associate at TU Darmstadt. Research interests: NLP, trustworthy AI, and multimodal learning. Seeking a Ph.D. position."
   location         : "Darmstadt, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "zhuo.yu@stud.tu-darmstadt.de"
+  email            : "zhuoyu.info@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "zhuo-yu"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
