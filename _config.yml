@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuo Yu / Master of Science"
+title                    : "Zhuo Yu"
 title_separator          : "-"
 name                     : &name "Zhuo Yu"
 description              : &description "Personal academic homepage of Zhuo Yu — NLP, Trustworthy AI, Multimodal Learning"
 url                      : https://zhuoyusan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhuoyusan/zhuoyusan.github.io"
+repository               : "https://github.com/ututono"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "M.Sc. student & Research Associate at TU Darmstadt. Research interests: NLP, trustworthy AI, and multimodal learning. Seeking a Ph.D. position."
   location         : "Darmstadt, Germany"
-  employer         :
+  employer         : "TU Darmstadt"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "zhuoyu.info@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhuo-yu"
+  linkedin         : "zhuoyu818"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -191,7 +191,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _posts (disabled — not public)
   - scope:
       path: ""
       type: posts
@@ -199,6 +199,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      sitemap: false
       comments: true
       share: true
       related: true
