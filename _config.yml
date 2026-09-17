@@ -13,7 +13,8 @@ name                     : &name "Zhuo Yu"
 description              : &description "Personal academic homepage of Zhuo Yu — NLP, Trustworthy AI, Multimodal Learning"
 url                      : https://zhuoyusan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/ututono"
+repository               : "zhuoyusan/zhuoyusan.github.io" # the repo hosting this site, format "owner/repo" (used by Staticman comments only)
+cv_url                   : "https://github.com/zhuoyusan/zhuoyusan.github.io/releases/latest/download/cv.pdf" # CV PDF is hosted as a GitHub Release asset; publish a new release with an asset named cv.pdf to update it
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

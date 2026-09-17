@@ -1,152 +1,234 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Zhuo Yu",
+    "label": "Research Associate, UKP Lab, TU Darmstadt",
+    "email": "zhuoyu.info@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://zhuoyusan.github.io",
+    "summary": "Graduate student at TU Darmstadt holding an M.Sc. in Computer Science (GPA 1.39, German scale) and finishing a second M.Sc. in Artificial Intelligence and Machine Learning. Over four years of research experience as a student and full-time research assistant in deep learning and NLP, with a co-authored EACL publication. Seeking a Ph.D. position for in-depth research in NLP, trustworthy AI, and interpretability.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Darmstadt",
+      "countryCode": "DE",
+      "region": "Hesse"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ututono",
+        "url": "https://github.com/ututono"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "zhuoyu818",
+        "url": "https://www.linkedin.com/in/zhuoyu818"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "Ubiquitous Knowledge Processing Lab (UKP), TU Darmstadt",
+      "position": "Research Associate (Full-Time)",
+      "startDate": "2025-12",
+      "endDate": "2026-04",
+      "summary": "Conducted research on bias in machine-generated text detectors toward non-native English speakers, supervised by Prof. Rozovskaya.",
+      "highlights": [
+        "Contributed to Project-CARE, an open-source annotation platform",
+        "Supervised a master's thesis",
+        "Performed lab service duties"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "Ubiquitous Knowledge Processing Lab (UKP), TU Darmstadt",
+      "position": "Student Research Assistant",
+      "startDate": "2024-11",
+      "endDate": "2025-05",
+      "summary": "Extended master's research on detecting implicit relations between texts using Retrieval-Augmented Generation.",
+      "highlights": [
+        "Extended the architecture with heterogeneous retriever and reader variants",
+        "Broadened benchmark coverage by integrating additional datasets",
+        "Designed joint training strategies including staged training of reranker, retriever, and reader"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Trustworthy Human Language Technologies Lab (TrustHLT), TU Darmstadt",
+      "position": "Student Research Assistant",
+      "startDate": "2023-05",
+      "endDate": "2024-11",
+      "summary": "Adapted and evaluated differentially-private training approaches across multiple NLP models and datasets (WMT16, BSD), contributing to the paper DP-NMT: Scalable Differentially-Private Machine Translation.",
+      "highlights": [
+        "Resolved out-of-memory issues in the JAX training framework",
+        "Expanded the pipeline to support additional datasets"
+      ]
+    },
+    {
+      "company": "Produktionsmanagement, Technologie und Werkzeugmaschinen Lab (PTW), TU Darmstadt",
+      "position": "Student Research Assistant",
+      "startDate": "2022-11",
+      "endDate": "2024-06",
+      "summary": "Applied deep learning to sensor data and welding machine configuration parameters to predict product quality and optimize machine configurations.",
+      "highlights": [
+        "Implemented data augmentation for limited industrial data",
+        "Developed an Actor-Critic model via Stable-Baselines3 for configuration optimization",
+        "Explored multimodal fusion strategies",
+        "Refactored a GNN-based solution with GNNExplainer for interpretable predictions"
+      ]
+    },
+    {
+      "company": "Ubiquitous Knowledge Processing Lab (UKP), TU Darmstadt",
+      "position": "Student Teaching Assistant",
+      "startDate": "2022-11",
+      "endDate": "2023-03",
+      "summary": "Teaching assistant for the master's course Foundations of Language Processing.",
+      "highlights": [
+        "Answered student questions and graded homework via nbgrader"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "Technical University Darmstadt",
+      "area": "M.Sc. in Artificial Intelligence and Machine Learning",
+      "studyType": "Master",
+      "startDate": "2024-09",
+      "endDate": "2026-09",
+      "gpa": "1.55/5.0 (German scale, 1.0 highest)",
+      "courses": []
+    },
+    {
+      "institution": "Technical University Darmstadt",
+      "area": "M.Sc. in Computer Science",
+      "studyType": "Master",
+      "startDate": "2021-04",
+      "endDate": "2024-09",
+      "gpa": "1.39/5.0 (German scale, 1.0 highest)",
+      "courses": [
+        "Thesis: Using Retrieval-Augmented Generation to Uncover Implicit Relation Between Texts"
+      ]
+    },
+    {
+      "institution": "Guangdong University of Technology",
+      "area": "B.Sc. in Information Security",
+      "studyType": "Bachelor",
+      "startDate": "2016-09",
+      "endDate": "2020-06",
+      "gpa": "3.89/5.0 (Chinese scale, 5.0 highest)",
+      "courses": [
+        "Thesis: The design and implementation of a secure private cloud storage system based on CP-ABE algorithm"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "Java",
+        "C++",
+        "Rust",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "HuggingFace",
+        "Gym",
+        "Stable-Baselines3",
+        "JAX"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [
+        "Git",
+        "LaTeX",
+        "Jupyter Notebook",
+        "Linux",
+        "Bash",
+        "MLflow",
+        "TensorBoard",
+        "Hydra",
+        "Docker"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent (B2 CEFR)"
+    },
+    {
+      "language": "German",
+      "fluency": "C1 CEFR"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Natural Language Processing",
+        "Trustworthy AI",
+        "Multimodal Learning",
+        "Interpretability"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "DP-NMT: Scalable Differentially-Private Machine Translation",
+      "publisher": "EACL 2024 (System Demonstrations)",
+      "releaseDate": "2024-01-01",
+      "website": "https://aclanthology.org/2024.eacl-demo.11/",
+      "summary": "A scalable framework for differentially-private neural machine translation, adapting and evaluating DP training approaches across multiple NLP models and datasets including WMT16 and BSD."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Foundations of Language Processing",
+      "institution": "Ubiquitous Knowledge Processing Lab (UKP), TU Darmstadt",
+      "date": "2022-11-01",
+      "role": "Student Teaching Assistant (master's course)",
+      "description": "Answered student questions and graded homework via nbgrader."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Evaluating MGT Detector Bias: Native vs Non-Native English Authors",
+      "category": "research",
+      "date": "2025-12-01",
+      "url": "/portfolio/detector-bias-nnes/",
+      "description": "Investigating whether machine-generated text detectors exhibit systematic bias against non-native English speakers in scientific writing."
+    },
+    {
+      "name": "RAG for Implicit Relation Detection Between Texts (M.Sc. Thesis)",
+      "category": "research",
+      "date": "2024-11-01",
+      "url": "/portfolio/rag-implicit-relations/",
+      "description": "A Retrieval-Augmented Generation framework to automate detection of implicit textual links, developed as M.Sc. thesis at UKP Lab."
+    },
+    {
+      "name": "Identifying Contradicted Findings in ACL Anthology Papers",
+      "category": "research",
+      "date": "2024-01-01",
+      "url": "/portfolio/contradiction-detection/",
+      "description": "Annotating and building a dataset to identify contradictions among NLP papers on the same topic, with model training and evaluation."
+    },
+    {
+      "name": "Endi-QM: Energy Efficiency via Intelligent In-Process Quality Monitoring",
+      "category": "research",
+      "date": "2022-11-01",
+      "url": "/portfolio/endi-qm/",
+      "description": "Applying deep learning and reinforcement learning to industrial sensor data for product quality prediction and machine parameter optimization."
     }
   ]
 }

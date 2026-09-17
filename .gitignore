@@ -21,3 +21,9 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+.idea/
+
+# The CV PDF is hosted as a GitHub Release asset, not committed here.
+# Local copies may stay in files/ for previewing.
+files/ZhuoYu_CV_*.pdf

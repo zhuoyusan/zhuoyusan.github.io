@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download the full CV [here](/files/ZhuoYu_CV_Universal_v2.0.pdf).
+Download the full CV [here]({{ site.cv_url }}).
 
 ---
 
@@ -17,7 +17,7 @@ Education
 ======
 
 **Technical University Darmstadt** — Darmstadt, Germany
-*M.Sc. in Artificial Intelligence and Machine Learning* | April 2024 – April 2026
+*M.Sc. in Artificial Intelligence and Machine Learning* | September 2024 – September 2026
 GPA: 1.55/5.0 (lowest best)
 
 **Technical University Darmstadt** — Darmstadt, Germany
